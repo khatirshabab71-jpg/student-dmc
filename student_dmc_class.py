@@ -107,7 +107,7 @@ class Student:
             return "A+"
         elif pct >= 80.0:
             return "A"
-        elif pct >= 70.0:
+        elif pct >= 75.0:
             return "B"
         elif pct >= 60.0:
             return "C"
